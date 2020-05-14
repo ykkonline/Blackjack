@@ -1,0 +1,15 @@
+﻿  Blackjack.cpp
+  Game.cpp
+C:\Users\tonbe\source\repos\Blackjack\Blackjack\Game.cpp(72,16): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Users\tonbe\source\repos\Blackjack\Blackjack\Game.cpp(96,6): warning C4101: 'userScoretest': unreferenced local variable
+C:\Users\tonbe\source\repos\Blackjack\Blackjack\Game.cpp(95,6): warning C4101: 'dealerScoretest': unreferenced local variable
+  Player.cpp
+C:\Users\tonbe\source\repos\Blackjack\Blackjack\Player.cpp(25,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tonbe\source\repos\Blackjack\Blackjack\Player.cpp(71,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tonbe\source\repos\Blackjack\Blackjack\Player.cpp(79,6): warning C4101: 'testScore': unreferenced local variable
+  Generating Code...
+  Blackjack.vcxproj -> C:\Users\tonbe\source\repos\Blackjack\Debug\Blackjack.exe
